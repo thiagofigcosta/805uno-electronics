@@ -1,0 +1,9 @@
+bogo = 3500, count = 0
+bogo = 17500, count = 15
+bogo = 87500, count = 0
+bogo = 437500, count = 31
+1) count = 360 ** mslice = 320.000000 *** bogo = 437500
+2) count = 328 ** mslice = 320.000000 *** bogo = 388889
+2) count = 297 ** mslice = 320.000000 *** bogo = 379404
+3) count = 328 ** mslice = 320.000000 *** bogo = 383198
+Hardware timer is OK.
